@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vmanish219
 - 👀 I’m interested in Coding and Development
 - 🌱 I’m currently learning Web Dev
-- 📫 How to reach me email at vmanish219@gmail.com
+- 📫 You can reach me on E-Mail at vmanish219@gmail.com
 
 <!---
 vmanish219/vmanish219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
